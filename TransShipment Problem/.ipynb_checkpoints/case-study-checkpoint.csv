@@ -1,0 +1,32 @@
+﻿,Costs ($ per 5 units),,,,,
+,Manufacturing Plants,,,,,
+Raw material supplier,Atlanta,Boston,Chicago,Denver,Capacity , Fixed cost $/1000
+ Baltimore ,$500 ,$410 ,$230 ,$300 ,"1,850",$33.60 
+ Cheyenne ,$260 ,$300 ,$480 ,$500 ,"1,590",$47.25 
+ Santa Fe ,$400 ,$260 ,$370 ,$340 ,"1,810",$40.95 
+ Salt Lake ,$340 ,$380 ,$250 ,$370 ,"1,950",$47.25 
+,,,,,"7,200",
+,Costs ($ per 10 units),,,,,
+,Distribution Centers,,,,,
+Manufacturing Plants,Omaha,Sprinfield,Memphis,Boise,Capacity , Fixed cost $/1000
+ Atlanta ,$230 ,$250 ,$220 ,$270 , un-limited ,$27.30 
+ Boston ,$260 ,$210 ,$180 ,$170 , un-limited ,$29.40 
+ Chicago ,$250 ,$230 ,$220 ,$170 , un-limited ,$24.15 
+ Denver ,$120 ,$250 ,$250 ,$290 , un-limited ,$28.35 
+,,,,,,
+,Costs ($ per 5 units),,,,,
+,Warehouses,,,,,
+Distribution Centers,Kentucky,Amarillo,Nebraska,Arizona,Capacity , Fixed cost $/1000
+ Omaha ,$150 ,$120 ,$140 ,$130 , un-limited ,$15.75 
+ Sprinfield ,$120 ,$100 ,$160 ,$110 , un-limited ,$19.95 
+ Memphis ,$140 ,$70 ,$170 ,$80 , un-limited ,$18.90 
+ Boise ,$70 ,$150 ,$150 ,$90 , un-limited ,$16.80 
+,,,,,,
+,Costs ($ per 8 units),,,,,
+,Retail Stores,,,,,
+Warehouses,LA,San Antonio,NY,Oklahoma City,Capacity , Fixed cost $/1000
+ Kentucky ,$100 ,$130 ,$150 ,$190 , un-limited ,$19.95 
+ Amarillo ,$120 ,$200 ,$160 ,$180 , un-limited ,$31.50 
+ Nebraska ,$100 ,$110 ,$100 ,$160 , un-limited ,$18.90 
+ Arizona ,$140 ,$190 ,$170 ,$130 , un-limited ,$18.90 
+ Total demand ,"1,100","1,750","1,575","1,500",,

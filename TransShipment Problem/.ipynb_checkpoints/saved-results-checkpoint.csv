@@ -1,0 +1,34 @@
+Raw To Plants,-,-,-,-,-,-
+-,Manufacturing Plants,-,-,-,-,-
+Raw material supplier,Atlanta,Boston,Chicago,Denver,Capacity ,Fix Costs
+ Baltimore ,0.0,0.0,1665.0,0.0,"1,850",33600.0
+ Cheyenne ,0.0,876.0,0.0,0.0,"1,590",47250.0
+ Santa Fe ,0.0,1629.0,0.0,0.0,"1,810",40950.0
+ Salt Lake ,0.0,0.0,1755.0,0.0,"1,950",47250.0
+-,-,-,-,-,"7,200",-
+Plants to DC,-,-,-,-,-,-
+-,Distribution Centers,-,-,-,-,-
+Manufacturing Plants,Omaha,Sprinfield,Memphis,Boise,Capacity ,Fix Costs
+ Atlanta ,0.0,0.0,0.0,0.0, un-limited ,0.0
+ Boston ,0.0,0.0,2505.0,0.0, un-limited ,29400.0
+ Chicago ,0.0,0.0,0.0,3420.0, un-limited ,24150.0
+ Denver ,0.0,0.0,0.0,0.0, un-limited ,0.0
+-,-,-,-,-,-,-
+DC To Wares,-,-,-,-,-,-
+-,Warehouses,-,-,-,-,-
+Distribution Centers,Kentucky,Amarillo,Nebraska,Arizona,Capacity ,Fix Costs
+ Omaha ,0.0,0.0,0.0,0.0, un-limited ,0.0
+ Sprinfield ,0.0,0.0,0.0,0.0, un-limited ,0.0
+ Memphis ,0.0,0.0,0.0,2505.0, un-limited ,18900.0
+ Boise ,3420.0,0.0,0.0,0.0, un-limited ,16800.0
+-,-,-,-,-,-,-
+Wares To Stores,-,-,-,-,-,-
+-,Retail Stores,-,-,-,-,-
+Warehouses,LA,San Antonio,NY,Oklahoma City,Capacity ,Fix Costs
+ Kentucky ,1100.0,1750.0,570.0,0.0, un-limited ,19950.0
+ Amarillo ,0.0,0.0,0.0,0.0, un-limited ,0.0
+ Nebraska ,0.0,0.0,0.0,0.0, un-limited ,0.0
+ Arizona ,0.0,0.0,1005.0,1500.0, un-limited ,18900.0
+ Total demand ,"1,100","1,750","1,575","1,500",-,-
+Stores Fixed Cost,9500.0,9500.0,9500.0,9500.0,-,-
+-,-,-,-,-,-,-
